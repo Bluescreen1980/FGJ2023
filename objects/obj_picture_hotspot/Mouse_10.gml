@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 
-
+global.hotspot = self.hotspot;
 script_execute(scr_hotspot_picture);
 
 

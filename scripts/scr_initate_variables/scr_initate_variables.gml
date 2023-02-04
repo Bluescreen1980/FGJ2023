@@ -25,6 +25,16 @@ global.picture9=0;
 global.picture10=0;
 global.picture11=0;
 global.picture12=0;
+global.picture13=0;
+global.picture14=0;
+global.picture15=0;
+global.picture16=0;
+global.picture17=0;
+global.picture18=0;
+global.picture19=0;
+global.picture20=0;
+
+
 
 global.text1 = 0 ;
 global.text2 = 0 ;

@@ -18,7 +18,7 @@ switch (self.hotspot) {
         global.uitext = "";
         break;
     case 1:
-        global.uitext = "Former owner of this manor";
+        global.uitext = "Matilda Ashbridge (1894-1979)";
 		global.prevpic = 1;
 		global.picture1 = 1;
         break;
