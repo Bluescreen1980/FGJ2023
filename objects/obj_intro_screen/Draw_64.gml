@@ -6,8 +6,9 @@ draw_set_alpha(title_alpha);
 
 draw_set_font(fnt_title)
 draw_set_halign(fa_center);
+draw_set_color(c_white);
 draw_text(wh*0.90,ww/5, title);
-scr_drop_shadow(wh*0.90,ww/5, c_white, c_black, title, 3, 2)
+scr_drop_shadow(wh*0.90,ww/5, c_white, c_black, title, 2, 2)
 
 
 draw_set_font(fnt_title_text2)

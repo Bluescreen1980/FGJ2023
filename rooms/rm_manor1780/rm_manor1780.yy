@@ -1,7 +1,7 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "rm_manor1",
+  "name": "rm_manor1780",
   "creationCodeFile": "",
   "inheritCode": false,
   "inheritCreationOrder": false,
