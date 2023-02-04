@@ -32,7 +32,7 @@
     "IDEVersion": "2023.1.0.58",
   },
   "resources": [
-    {"id":{"name":"scr_init","path":"scripts/scr_init/scr_init.yy",},"order":0,},
+    {"id":{"name":"scr_initate_variables","path":"scripts/scr_initate_variables/scr_initate_variables.yy",},"order":0,},
     {"id":{"name":"obj_1990_gamelogic","path":"objects/obj_1990_gamelogic/obj_1990_gamelogic.yy",},"order":0,},
     {"id":{"name":"spr_wide_arrow","path":"sprites/spr_wide_arrow/spr_wide_arrow.yy",},"order":0,},
     {"id":{"name":"rm_manor1850","path":"rooms/rm_manor1850/rm_manor1850.yy",},"order":0,},

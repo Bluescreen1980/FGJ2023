@@ -7,8 +7,12 @@ title_alpha = 1;
 global.showuitxt = 0;
 global.uitext = "";
 
-global.titletext = "Manor in 1990";
+if (global.titleshownonce == 0){
+	global.titletext = "Manor in 1990";
+	global.titleshownonce = 1
+	alarm[0] = 240;
+}
  
-alarm[0] = 300;
+
 fadetitle = 0;
 showtitle = 1;

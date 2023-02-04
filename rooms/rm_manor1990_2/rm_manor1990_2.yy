@@ -2,16 +2,18 @@
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
   "name": "rm_manor1990_2",
-  "creationCodeFile": "",
+  "creationCodeFile": "${project_dir}/rooms/rm_manor1990_2/RoomCreationCode.gml",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
   "instanceCreationOrder": [
     {"name":"inst_15284CE3","path":"rooms/rm_manor1990_2/rm_manor1990_2.yy",},
+    {"name":"inst_690778F3","path":"rooms/rm_manor1990_2/rm_manor1990_2.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_690778F3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_UI_room_change","path":"objects/obj_UI_room_change/obj_UI_room_change.yy",},"properties":[],"rotation":-179.91608,"scaleX":0.15959597,"scaleY":0.18446602,"x":64.0,"y":672.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_15284CE3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_1990_gamelogic","path":"objects/obj_1990_gamelogic/obj_1990_gamelogic.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1216.0,"y":736.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_1","assets":[
