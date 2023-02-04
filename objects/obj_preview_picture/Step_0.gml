@@ -1,19 +1,20 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+
 if (global.showprevpic == 1){  
 image_alpha = 1;
 
 	switch (global.prevpic) {
 	    case 0:
-	        object_set_sprite(0, spr_pic_q);
+	        //layer_sprite_change(thisid, spr_pic_q);
 	        break;
 		case 1:
-	        object_set_sprite(0, spr_pic1);
+	        sprite_index = spr_pic1;
 	        break;	
 		
 	    default:
-	        object_set_sprite(0, spr_pic_q);
+	        //layer_sprite_change(thisid, spr_pic_q);
 	        break;
 	}
 }

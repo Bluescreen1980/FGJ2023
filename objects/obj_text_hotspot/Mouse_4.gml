@@ -1,8 +1,13 @@
 /// @description Insert description here
 // You can write your code in this editor
-if (global.showprevpic == 1){
-	image_alpha = 1;
 
+if (global.showprevpic == 0){
+	
+	global.showprevpic = 1
+ 
+}
+else if (global.showprevpic == 1){
+	
 	global.showprevpic = 0
  
 }
