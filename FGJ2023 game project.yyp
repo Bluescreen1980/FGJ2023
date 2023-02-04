@@ -38,6 +38,7 @@
     {"id":{"name":"rm_picture_menu","path":"rooms/rm_picture_menu/rm_picture_menu.yy",},"order":0,},
     {"id":{"name":"rm_manor1","path":"rooms/rm_manor1/rm_manor1.yy",},"order":0,},
     {"id":{"name":"obj_init","path":"objects/obj_init/obj_init.yy",},"order":0,},
+    {"id":{"name":"scr_dropshadow","path":"scripts/scr_dropshadow/scr_dropshadow.yy",},"order":0,},
     {"id":{"name":"obj_start_screen","path":"objects/obj_start_screen/obj_start_screen.yy",},"order":0,},
     {"id":{"name":"obj_picture","path":"objects/obj_picture/obj_picture.yy",},"order":0,},
     {"id":{"name":"spr_old_manor1_outside","path":"sprites/spr_old_manor1_outside/spr_old_manor1_outside.yy",},"order":0,},
