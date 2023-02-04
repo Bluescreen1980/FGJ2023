@@ -56,7 +56,7 @@ switch (global.hotspot) {
         global.uitext = "Elizabeth Ashbridge (Walker) 1908-1939";
 		global.prevpic = 8;
 		global.picture8 = 1;
-		// sprite_index  = 
+		sprite_index  = spr_elizabeth_walker;
     break;	  
 	case 9:
         global.uitext = "Jonathan Ashbridge (1931-1936)";
@@ -68,7 +68,7 @@ switch (global.hotspot) {
         global.uitext = "Emily Ashbridge (Staunton) 1872-1932";
 		global.prevpic = 10;
 		global.picture10 = 1;
-		// sprite_index  = 
+		sprite_index  = spr_Emily_Ashbrige_Staunton;
     break
 	case 11:
         global.uitext = "Arthur Ashbridge (1889-1925)";
@@ -122,7 +122,7 @@ switch (global.hotspot) {
         global.uitext = "Celeste Walker";
 		global.prevpic = 19;
 		global.picture19 = 1;
-		sprite_index  = spr_Celeste_Walkers;
+		sprite_index  = spr_Celeste_Walker;
     break
 	case 20:
         global.uitext = "Eva Creekside";
