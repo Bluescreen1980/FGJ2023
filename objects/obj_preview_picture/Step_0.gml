@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-
+ 
 if (global.showprevpic == 1){  
 image_alpha = 1;
 
@@ -32,8 +32,9 @@ image_alpha = 1;
 }
 else {
 
-image_alpha = 0;
-
+	if (room != rm_picture_menu){
+	image_alpha = 0;
+	}
 }
 
 

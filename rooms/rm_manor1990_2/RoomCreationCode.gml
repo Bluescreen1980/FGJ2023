@@ -1,1 +1,1 @@
- 
+ global.player_location = 2;

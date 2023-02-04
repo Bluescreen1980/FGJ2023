@@ -32,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_hitbox",
-    "path": "sprites/spr_hitbox/spr_hitbox.yy",
+    "name": "spr_pic_q",
+    "path": "sprites/spr_pic_q/spr_pic_q.yy",
   },
   "spriteMaskId": null,
   "visible": true,

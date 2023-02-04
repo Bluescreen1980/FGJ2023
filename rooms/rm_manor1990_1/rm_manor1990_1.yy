@@ -2,7 +2,7 @@
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
   "name": "rm_manor1990_1",
-  "creationCodeFile": "",
+  "creationCodeFile": "${project_dir}/rooms/rm_manor1990_1/RoomCreationCode.gml",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,

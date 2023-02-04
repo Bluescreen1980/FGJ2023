@@ -33,7 +33,7 @@ global.text4 = 0 ;
 global.text5 = 0 ;
 
 
-global.room_location = 0;
+global.player_location = 0;
 global.showprevpic = 0; 
 global.year = 1990;
 
