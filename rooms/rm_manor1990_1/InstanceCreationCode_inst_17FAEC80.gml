@@ -1,0 +1,1 @@
+self.hotspot = 30;

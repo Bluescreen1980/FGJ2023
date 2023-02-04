@@ -3,13 +3,13 @@
 function init(){
 
 global.year=1990; //current year
-global.menu_open=0; //is the pciture menu open or not
+global.menu_open=0; //is the picture menu open or not
 global.inheritor=1; //who is the real inheritor
 global.secret = 0 // secret inheritor found
 
 global.uitext = ""; //explaining ui text
 global.showuitxt= 0 ; //show ui text or not
-
+global.hotspot = 0 ;// hotspot number 
 
 //picture found
 
@@ -25,6 +25,13 @@ global.picture9=0;
 global.picture10=0;
 global.picture11=0;
 global.picture12=0;
+
+global.text1 = 0 ;
+global.text2 = 0 ;
+global.text3 = 0 ;
+global.text4 = 0 ;
+global.text5 = 0 ;
+
 
 global.room_location = 0;
 global.showprevpic = 0; 

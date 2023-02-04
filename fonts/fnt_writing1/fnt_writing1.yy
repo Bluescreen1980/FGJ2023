@@ -1,7 +1,7 @@
 {
   "resourceType": "GMFont",
   "resourceVersion": "1.0",
-  "name": "fnt_title_text3",
+  "name": "fnt_writing1",
   "AntiAlias": 1,
   "applyKerning": 0,
   "ascender": 26,
