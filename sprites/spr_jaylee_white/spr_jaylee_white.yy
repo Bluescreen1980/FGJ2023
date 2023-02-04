@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "stanley_ashbridge_junior",
+  "name": "spr_jaylee_white",
   "bbox_bottom": 767,
   "bbox_left": 0,
   "bbox_right": 511,
@@ -13,17 +13,17 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"cffbed37-3428-494a-ae92-0c4f9fea381e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"37faba66-31aa-489a-99d3-696f466715bb",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 768,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ca3ff2c5-423e-4f43-9dd4-bf90e55e97bc","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"833b5f0c-42b1-4a8e-a50d-4aa9a31b39ed","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
-  "origin": 0,
+  "origin": 4,
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "stanley_ashbridge_junior",
+    "name": "spr_jaylee_white",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,13 +54,13 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"cffbed37-3428-494a-ae92-0c4f9fea381e","path":"sprites/stanley_ashbridge_junior/stanley_ashbridge_junior.yy",},},},"Disabled":false,"id":"21a12bc5-dc93-4ee6-9181-b5391e71a435","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"37faba66-31aa-489a-99d3-696f466715bb","path":"sprites/spr_jaylee_white/spr_jaylee_white.yy",},},},"Disabled":false,"id":"883f6ecd-7b6e-4c73-bd60-2c1006637765","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
     "volume": 1.0,
-    "xorigin": 0,
-    "yorigin": 0,
+    "xorigin": 256,
+    "yorigin": 384,
   },
   "swatchColours": null,
   "swfPrecision": 2.525,
