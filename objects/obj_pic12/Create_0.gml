@@ -7,3 +7,7 @@ pictureperson = spr_margaret_ashbridge;
 realname ="Margaret Ashbridge (1915-????)";
 uitext = "???"; //default
 pic = 12; //also hotspot number
+
+if (global.picture12==0){
+	sprite_index = spr_pic_q;
+ }

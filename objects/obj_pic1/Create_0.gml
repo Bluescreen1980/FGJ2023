@@ -7,3 +7,7 @@ pictureperson = spr_Matilda_ashbridge;
 realname = "Matilda Ashbridge (1894-1979)"
 uitext = "???"; //default
 pic = 1; //also hotspot number
+
+if (global.picture1==0){
+	sprite_index = spr_pic_q;
+ }

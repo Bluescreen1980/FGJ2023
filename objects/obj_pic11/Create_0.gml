@@ -7,3 +7,8 @@ pictureperson =  spr_arthur_ashbridge;
 realname = "Arthur Ashbridge (1889-1925)";
 uitext = "???"; //default
 pic = 11; //also hotspot number
+
+
+if (global.picture11==0){
+	sprite_index = spr_pic_q;
+ }

@@ -9,4 +9,6 @@ uitext = "???"; //default
 pic = 21; //also hotspot number
 
 
- 
+ if (global.picture21==0){
+	sprite_index = spr_pic_q;
+ }

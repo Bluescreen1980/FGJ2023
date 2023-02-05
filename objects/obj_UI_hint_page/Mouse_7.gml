@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+global.showprevpic = 0
 global.titletext = "";
 global.showuitxt = 0;
  

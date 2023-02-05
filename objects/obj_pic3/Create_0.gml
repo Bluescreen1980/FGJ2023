@@ -7,3 +7,7 @@ pictureperson = spr_winston_ashbridge;
 realname ="Winston Ashbridge (1910-1947)";
 uitext = "???"; //default
 pic = 3; //also hotspot number
+
+if (global.picture3==0){
+	sprite_index = spr_pic_q;
+ }

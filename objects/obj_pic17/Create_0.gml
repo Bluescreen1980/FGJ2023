@@ -8,5 +8,7 @@ realname = "Albert Ashbridge";
 uitext = "???"; //default
 pic = 17; //also hotspot number
 
-
+if (global.picture17==0){
+	sprite_index = spr_pic_q;
+ }
  

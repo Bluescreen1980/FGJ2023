@@ -8,5 +8,9 @@ realname = "ms. Brook (Nurse)";
 uitext = "???"; //default
 pic = 15; //also hotspot number
 
+if (global.picture15==0){
+	sprite_index = spr_pic_q;
+ }
+
 
  

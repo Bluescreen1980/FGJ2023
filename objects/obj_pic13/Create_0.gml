@@ -8,5 +8,8 @@ realname = "Stanley Sr. Ashbridge (1871-1916)";
 uitext = "???"; //default
 pic = 13; //also hotspot number
 
+if (global.picture13==0){
+	sprite_index = spr_pic_q;
+ }
 
  

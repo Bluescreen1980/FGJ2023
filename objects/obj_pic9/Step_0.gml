@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if (global.picture1==1){found = 1;}
+if (global.picture9==1){found = 1;}
 
 if (found == 1){
 	
