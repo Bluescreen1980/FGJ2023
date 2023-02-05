@@ -3,3 +3,4 @@
 script_execute(scr_initate_variables());
 global.showprevpic = 0;
 room_goto(rm_menu);
+global.img = spr_pic_q;

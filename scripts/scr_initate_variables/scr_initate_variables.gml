@@ -36,11 +36,11 @@ global.picture20=0;
 global.picture21=0;
 
 
-global.text1 = 0 ;
-global.text2 = 0 ;
-global.text3 = 0 ;
-global.text4 = 0 ;
-global.text5 = 0 ;
+global.hint0 = 0 ;
+global.hint1 = 0 ;
+global.hint2 = 0 ;
+global.hint3 = 0 ;
+global.hint4 = 0 ;
 
 
 global.player_location = 0;
