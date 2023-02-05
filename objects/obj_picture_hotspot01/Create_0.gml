@@ -8,7 +8,3 @@ img = spr_Matilda_ashbridge;
 text = "Matilda Ashbridge (1894-1979)";
 
 
-if (room == rm_picture_menu){
-image_alpha = 1;
-
-}

@@ -30,6 +30,7 @@
     {"name":"inst_5498BEB","path":"rooms/rm_picture_menu/rm_picture_menu.yy",},
     {"name":"inst_77418928","path":"rooms/rm_picture_menu/rm_picture_menu.yy",},
     {"name":"inst_4ADB4A2F","path":"rooms/rm_picture_menu/rm_picture_menu.yy",},
+    {"name":"inst_2D383387","path":"rooms/rm_picture_menu/rm_picture_menu.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -57,6 +58,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5498BEB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_pic17","path":"objects/obj_pic17/obj_pic17.yy",},"properties":[],"rotation":0.0,"scaleX":0.25,"scaleY":0.20833334,"x":416.0,"y":672.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_77418928","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_pic19","path":"objects/obj_pic19/obj_pic19.yy",},"properties":[],"rotation":0.0,"scaleX":0.1875,"scaleY":0.16666667,"x":736.0,"y":256.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4ADB4A2F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_pic14","path":"objects/obj_pic14/obj_pic14.yy",},"properties":[],"rotation":0.0,"scaleX":0.25,"scaleY":0.20833333,"x":576.0,"y":672.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2D383387","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_gallery_gamelogic","path":"objects/obj_gallery_gamelogic/obj_gallery_gamelogic.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":768.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"spr_old_manor1_outside_blur","path":"sprites/spr_old_manor1_outside_blur/spr_old_manor1_outside_blur.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

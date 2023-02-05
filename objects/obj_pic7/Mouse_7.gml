@@ -1,5 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
+global.uitext = uitext;
+
 if (found == 1){
 	
 if (global.showprevpic == 0){

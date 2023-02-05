@@ -4,5 +4,5 @@
 year = global.year; //which year is it
 hotspot = 32
 image_alpha = 0;
-img =  spr_old_letter_paper;
+img =  vinkki3;
 text ="Sheet of old paper";

@@ -4,5 +4,5 @@
 year = global.year; //which year is it
 hotspot = 31
 image_alpha = 0;
-img =  spr_yellowish_letter_paper;
+img =  vinkki2;
 text ="Yellow letter paper";

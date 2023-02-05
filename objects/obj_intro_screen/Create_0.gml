@@ -2,7 +2,7 @@
 // You can write your code in this editor
 alarm[0]=120;
 title_alpha=0;
-alarm[1]=300;
+alarm[1]=600;
 
 title = "(intro screen come here ok?)";
 line2 = "";

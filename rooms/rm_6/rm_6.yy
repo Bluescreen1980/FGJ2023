@@ -12,6 +12,7 @@
     {"name":"inst_634BEF9D","path":"rooms/rm_6/rm_6.yy",},
     {"name":"inst_287906EC","path":"rooms/rm_6/rm_6.yy",},
     {"name":"inst_39FFEDAE","path":"rooms/rm_6/rm_6.yy",},
+    {"name":"inst_2528FA9A","path":"rooms/rm_6/rm_6.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -21,6 +22,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_634BEF9D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_preview_picture","path":"objects/obj_preview_picture/obj_preview_picture.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":640.0,"y":1152.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_287906EC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_picture_hotspot16","path":"objects/obj_picture_hotspot16/obj_picture_hotspot16.yy",},"properties":[],"rotation":0.0,"scaleX":1.64,"scaleY":2.92,"x":1264.0,"y":368.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_39FFEDAE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_room_gamelogic","path":"objects/obj_room_gamelogic/obj_room_gamelogic.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":960.0,"y":800.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2528FA9A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_picture_hotspot31","path":"objects/obj_picture_hotspot31/obj_picture_hotspot31.yy",},"properties":[],"rotation":0.0,"scaleX":2.92,"scaleY":2.28,"x":336.0,"y":512.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_1","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_55624E3_1","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"rotation":0.0,"scaleX":0.8958334,"scaleY":0.875,"spriteId":{"name":"spr_kitchen","path":"sprites/spr_kitchen/spr_kitchen.yy",},"x":0.0,"y":0.0,},

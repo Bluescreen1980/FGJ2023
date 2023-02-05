@@ -28,5 +28,6 @@ global.picture19=0;
 global.picture20=0;
 global.picture21=0;
 
+global.endchoice=0;
 
 room_goto(rm_menu);

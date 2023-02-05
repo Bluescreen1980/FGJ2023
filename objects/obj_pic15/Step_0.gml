@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+
 if (global.picture15==1){found = 1;}
 
 if (found == 1){
