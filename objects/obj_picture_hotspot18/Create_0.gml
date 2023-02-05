@@ -5,4 +5,4 @@ year = global.year; //which year is it
 hotspot = 18
 image_alpha = 0;
 img = spr_jaylee_white;
-text ="Jaylee White";;
+text ="Jaylee Ashbridge (White)";;

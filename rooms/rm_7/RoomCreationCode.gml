@@ -1,1 +1,0 @@
-global.player_location = 6;

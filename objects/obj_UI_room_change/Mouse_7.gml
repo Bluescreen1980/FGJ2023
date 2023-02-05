@@ -19,8 +19,5 @@ else if (room = rm_5){
 room_goto(rm_6);
 }
 else if (room = rm_6){
-room_goto(rm_7);
-}
-else if (room = rm_7){
 room_goto(rm_1);
 }
