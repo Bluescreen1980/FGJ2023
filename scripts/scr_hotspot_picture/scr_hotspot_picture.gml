@@ -77,7 +77,7 @@ switch (pic) {
 		sprite_index  = spr_arthur_ashbridge;
     break
 	case 12:
-        global.uitext = "Margaret Ashbridge (1915-????)";
+        global.uitext = "Margaret Ashbridge (1915-1925)";
 		global.prevpic = 12;
 		global.picture12 = 1;
 		sprite_index  = spr_margaret_ashbridge; 

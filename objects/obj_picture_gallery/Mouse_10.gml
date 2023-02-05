@@ -3,7 +3,7 @@
 
 hotspot = picture;
 
-script_execute(scr_hotspot_picture);
+script_execute(scr_hotspot_picture(pic));
 
 
 
