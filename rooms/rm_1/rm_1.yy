@@ -14,6 +14,7 @@
     {"name":"inst_3E520332","path":"rooms/rm_1/rm_1.yy",},
     {"name":"inst_518573B","path":"rooms/rm_1/rm_1.yy",},
     {"name":"inst_51916939","path":"rooms/rm_1/rm_1.yy",},
+    {"name":"inst_4DD7F9F1","path":"rooms/rm_1/rm_1.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -25,6 +26,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3E520332","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_picture_hotspot13","path":"objects/obj_picture_hotspot13/obj_picture_hotspot13.yy",},"properties":[],"rotation":0.0,"scaleX":2.28,"scaleY":2.28,"x":448.0,"y":352.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_518573B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_picture_hotspot10","path":"objects/obj_picture_hotspot10/obj_picture_hotspot10.yy",},"properties":[],"rotation":0.0,"scaleX":2.92,"scaleY":4.84,"x":176.0,"y":320.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_51916939","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_picture_hotspot01","path":"objects/obj_picture_hotspot01/obj_picture_hotspot01.yy",},"properties":[],"rotation":0.0,"scaleX":2.28,"scaleY":3.56,"x":832.0,"y":352.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4DD7F9F1","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_UI_move_to_end","path":"objects/obj_UI_move_to_end/obj_UI_move_to_end.yy",},"properties":[],"rotation":0.0,"scaleX":2.1,"scaleY":3.74,"x":699.5,"y":413.5,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_1","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_4EB28451","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"rotation":0.0,"scaleX":0.8958333,"scaleY":0.75,"spriteId":{"name":"spr_manor1979_1","path":"sprites/spr_manor1979_1/spr_manor1979_1.yy",},"x":0.0,"y":0.0,},
