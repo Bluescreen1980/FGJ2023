@@ -8,7 +8,7 @@ global.showuitxt = 0;
 global.uitext = "";
 
 if (global.titleshownonce == 0){
-	global.titletext = "Manor in 1990";
+	global.titletext = "1979";
 	global.titleshownonce = 1
 	alarm[0] = 240;
 }
