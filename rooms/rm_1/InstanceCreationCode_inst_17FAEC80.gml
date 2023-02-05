@@ -1,1 +1,1 @@
-self.hotspot = 30;
+self.hotspot = 1;

@@ -3,6 +3,7 @@
 
 if (global.showprevpic == 0){
 	
+	global.hotspot = self.hotspot;
 	global.showprevpic = 1
  
 }

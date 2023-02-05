@@ -33,7 +33,7 @@ global.picture17=0;
 global.picture18=0;
 global.picture19=0;
 global.picture20=0;
-
+global.picture21=0;
 
 
 global.text1 = 0 ;

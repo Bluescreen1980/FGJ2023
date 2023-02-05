@@ -1,12 +1,12 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
-function scr_hotspot_picture(){
+function scr_hotspot_picture(pic){
 global.showuitxt = 1;
  
  
 if (global.showuitxt == 1){
 	
-switch (global.hotspot) {
+switch (pic) {
 	case 0:
         global.uitext = "";
         break;
